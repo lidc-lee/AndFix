@@ -1,3 +1,7 @@
+#Andfix 使用
+
+http://blog.csdn.net/yaya_soft/article/details/50460102
+
 # AndFix
 
 [![Download](https://api.bintray.com/packages/supern/maven/andfix/images/download.svg) ](https://bintray.com/supern/maven/andfix/_latestVersion)
